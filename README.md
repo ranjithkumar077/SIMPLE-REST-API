@@ -1,5 +1,14 @@
 # SoftGrowTech Student Management REST API
 
+# Student Details
+ Student Name                 : B RANJITH KUMAR
+ 
+ Student ID                	  : SGT-26E-2412
+ 
+ Domain                    	  : Backend Developer
+ 
+ Project Title                : SoftGrowTech Student Management REST API
+
 A complete professional Backend Development Project for **SoftGrowTech Internship Task 1**.
 
 ## 🚀 Project Overview
