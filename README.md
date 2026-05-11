@@ -92,17 +92,3 @@ python app.py
 ### Step 5: Access the Application
 Open your web browser and go to:
 `http://127.0.0.1:5000`
-
-## 📤 GitHub Upload Steps
-To upload this project to your GitHub account as part of your internship submission:
-1. Create a new repository on GitHub.
-2. Open terminal in this project folder and run:
-```bash
-git init
-git add .
-git commit -m "Initial commit - SoftGrowTech Task 1"
-git branch -M main
-git remote add origin <your-repository-url>
-git push -u origin main
-```
-Note: A `.gitignore` file has already been added to avoid committing virtual environment files.
