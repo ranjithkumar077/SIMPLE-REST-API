@@ -67,6 +67,9 @@ SoftGrowTech_Student_API/
 
 ### Step 1: Clone or Download the Project
 Download the repository to your local machine and open it in VS Code or your preferred IDE.
+```bash
+git clone https://github.com/ranjithkumar077/SIMPLE-REST-API.git
+```
 
 ### Step 2: Create a Virtual Environment (Recommended)
 Open your terminal inside the project folder and run:
@@ -93,21 +96,6 @@ python app.py
 Open your web browser and go to:
 `http://127.0.0.1:5000`
 
-## 📤 GitHub Upload Steps
-To upload this project to your GitHub account as part of your internship submission:
-1. Create a new repository on GitHub.
-2. Open terminal in this project folder and run:
-```bash
-git init
-git add .
-git commit -m "Initial commit - SoftGrowTech Task 1"
-git branch -M main
-git remote add origin <your-repository-url>
-git push -u origin main
-```
-Note: A `.gitignore` file has already been added to avoid committing virtual environment files.
-
----
 
 # 📸 Project Screenshots
 
