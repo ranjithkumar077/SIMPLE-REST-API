@@ -115,7 +115,8 @@ Note: A `.gitignore` file has already been added to avoid committing virtual env
 
 The main dashboard displays all student records in a professional dark-themed table interface with search functionality and CRUD operation buttons.
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1919" height="899" alt="Screenshot 2026-05-11 175501" src="https://github.com/user-attachments/assets/e6b58d8b-0c40-4866-84e9-cbac6aed57e3" />
+
 
 ---
 
@@ -123,7 +124,10 @@ The main dashboard displays all student records in a professional dark-themed ta
 
 Users can add new student details including name, email, course, and phone number using a clean responsive form.
 
-![Add Student](screenshots/add_student.png)
+<img width="1918" height="911" alt="Screenshot 2026-05-11 175536" src="https://github.com/user-attachments/assets/f1d0739f-6c77-4f73-b876-ad2937875d3b" />
+ After Adding Student Details.
+<img width="1919" height="908" alt="Screenshot 2026-05-11 175648" src="https://github.com/user-attachments/assets/9c2d8a21-73ac-4cef-b88b-6c81823d63f8" />
+
 
 ---
 
@@ -131,7 +135,11 @@ Users can add new student details including name, email, course, and phone numbe
 
 The update feature allows users to edit and modify existing student information easily.
 
-![Update Student](screenshots/update_student.png)
+<img width="1919" height="907" alt="Screenshot 2026-05-11 175722" src="https://github.com/user-attachments/assets/04d7f370-0981-4e72-93e8-309b7ef5234c" />
+
+ After Updated Student Details (g karthik).
+
+ <img width="1919" height="904" alt="Screenshot 2026-05-11 175739" src="https://github.com/user-attachments/assets/5108d547-ab90-4ce9-8d90-eb20cee30f01" />
 
 ---
 
@@ -139,7 +147,11 @@ The update feature allows users to edit and modify existing student information 
 
 Users can securely delete student records with a confirmation popup before removal.
 
-![Delete Student](screenshots/delete_student.png)
+<img width="1914" height="948" alt="Screenshot 2026-05-11 175800" src="https://github.com/user-attachments/assets/ba68794a-96c5-48ed-859d-5dbfa64f847a" />
+
+After Deleting the Student Detail.
+
+<img width="1918" height="906" alt="Screenshot 2026-05-11 175812" src="https://github.com/user-attachments/assets/a2f45860-a13c-46f7-935d-2e52ef9b3e6c" />
 
 ---
 
@@ -155,14 +167,5 @@ This project successfully implements complete CRUD operations:
 | **Delete** | Remove student records |
 
 ---
-
-# 📂 Screenshot Folder Structure
-
-```text
-screenshots/
-│
-├── dashboard.png
-├── add_student.png
-├── update_student.png
-└── delete_student.png
-```
+ CREATED BY:
+            B Ranjith Kumar
