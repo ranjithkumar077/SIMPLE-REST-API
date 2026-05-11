@@ -92,3 +92,77 @@ python app.py
 ### Step 5: Access the Application
 Open your web browser and go to:
 `http://127.0.0.1:5000`
+
+## 📤 GitHub Upload Steps
+To upload this project to your GitHub account as part of your internship submission:
+1. Create a new repository on GitHub.
+2. Open terminal in this project folder and run:
+```bash
+git init
+git add .
+git commit -m "Initial commit - SoftGrowTech Task 1"
+git branch -M main
+git remote add origin <your-repository-url>
+git push -u origin main
+```
+Note: A `.gitignore` file has already been added to avoid committing virtual environment files.
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Student Dashboard
+
+The main dashboard displays all student records in a professional dark-themed table interface with search functionality and CRUD operation buttons.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## ➕ Add Student
+
+Users can add new student details including name, email, course, and phone number using a clean responsive form.
+
+![Add Student](screenshots/add_student.png)
+
+---
+
+## ✏️ Update Student
+
+The update feature allows users to edit and modify existing student information easily.
+
+![Update Student](screenshots/update_student.png)
+
+---
+
+## 🗑️ Delete Student
+
+Users can securely delete student records with a confirmation popup before removal.
+
+![Delete Student](screenshots/delete_student.png)
+
+---
+
+# 🔄 CRUD Operations
+
+This project successfully implements complete CRUD operations:
+
+| Operation | Description |
+|-----------|-------------|
+| **Create** | Add new student records |
+| **Read** | View all student records |
+| **Update** | Edit existing student details |
+| **Delete** | Remove student records |
+
+---
+
+# 📂 Screenshot Folder Structure
+
+```text
+screenshots/
+│
+├── dashboard.png
+├── add_student.png
+├── update_student.png
+└── delete_student.png
+```
